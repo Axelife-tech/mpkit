@@ -1,0 +1,16 @@
+PODS:
+  - mpkit (0.1.0)
+
+DEPENDENCIES:
+  - mpkit (from `../`)
+
+EXTERNAL SOURCES:
+  mpkit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  mpkit: 3f900c4da8c140d2c18e1b80f7ce8febaaf79966
+
+PODFILE CHECKSUM: 03a9e40ea3a4f8b3d449d03adcb851041a40aa51
+
+COCOAPODS: 1.5.0
